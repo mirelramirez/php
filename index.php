@@ -1,9 +1,8 @@
 <?php
-Function functionName(){
-//code to be executed
-}
+ $ name="David";
+ $age=25;
+  ?>
 
-?>
 
 
 
